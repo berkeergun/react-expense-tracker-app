@@ -1,4 +1,4 @@
-# Calculator App [Live Server](https://expense-tracker-berke.surge.sh/)
+# Expense Tracker App [Live Server](https://expense-tracker-berke.surge.sh/)
 ![react-expense-tracker](./src/expense-tracker.jpg)
 
 # Getting Started with Create React App
